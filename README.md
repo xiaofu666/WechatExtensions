@@ -5,7 +5,7 @@
 
 ![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)  [![release](https://img.shields.io/badge/release-v2.9.2-brightgreen.svg)](https://github.com/MustangYM/WeChatExtension-ForMac/releases)  ![support](https://img.shields.io/badge/support-wechat%203.1.2-blue.svg) 
 
-[微信老助手原作者](https://github.com/MustangYM/WeChatExtension-ForMac)，安装包见[Release]()
+[微信老助手原作者](https://github.com/MustangYM/WeChatExtension-ForMac)，安装包见[Release](https://github.com/xiaofu666/WechatExtensions/releases/download/3.9.2/app.zip)
 
 ## 手机端也能收到被撤回的消息
 - 如果Mac拦截到A发送来的消息，手机也会同步收到的这条已经拦截的消息(自己发送给自己)。目前只支持同步文字消息与图片消息。
