@@ -3,7 +3,7 @@
 <img src="Resource/title.png" width="1000px"/>
 </p>
 
-![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)  [![release](https://img.shields.io/badge/release-v2.9.2-brightgreen.svg)](https://github.com/MustangYM/WeChatExtension-ForMac/releases)  ![support](https://img.shields.io/badge/support-wechat%203.1.2-blue.svg) 
+![platform](https://img.shields.io/badge/platform-macos-lightgrey.svg)  [![release](https://img.shields.io/badge/release-v3.9.2-brightgreen.svg)](https://github.com/MustangYM/WeChatExtension-ForMac/releases)  ![support](https://img.shields.io/badge/support-wechat%203.9.2-blue.svg) 
 
 [微信老助手原作者](https://github.com/MustangYM/WeChatExtension-ForMac)，安装包见[Release](https://github.com/xiaofu666/WechatExtensions/releases/download/3.9.2/app.zip)
 
